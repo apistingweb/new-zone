@@ -42,7 +42,7 @@
      width:100% 
 }
  .STING-WEB_Change .active,.STING-WEB_Change>button:hover{
-     background:#9e1414 
+     background:#9e1414 !important; 
 }
  iframe#video-iframe-src{
      height:100%;
