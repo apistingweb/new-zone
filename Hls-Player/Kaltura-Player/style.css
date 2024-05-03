@@ -145,3 +145,6 @@
      pointer-events: none;
      padding-bottom: 8px;
 }
+.Night .STING-WEB_Change>button,.Night .STING-WEB_Get-Code,.Night .STING-WEB_Reload,.Night #STING-WEB_Telegram-MSG { background: #263545; }
+.Night #STING-WEB_Telegram-MSG p { color: #ddd; }
+.Night #STING-WEB_Telegram-MSG > strong { color: #fff; }
